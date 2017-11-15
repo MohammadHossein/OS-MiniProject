@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragon/CLionProjects/mini-thread/main.cpp
+iostream
+-
+fstream
+-
+sys/time.h
+-
+pthread.h
+-
+thread
+-
+

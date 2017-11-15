@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OS_miniProject.dir/main.cpp.o  -o OS_miniProject 
