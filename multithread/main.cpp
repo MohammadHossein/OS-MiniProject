@@ -19,9 +19,15 @@ void countWord(){
     for (int i = start; i < end; ++i) {
         if (isspace(arr[i])) {
             count++;
+            while(isspace(arr[i]))
+                i++;
         }
         countChar++;
     }
+    if(isspace(arr[start]))
+        count--;
+    if(isspace(arr[end-1]))
+        count--;
 }
 
 

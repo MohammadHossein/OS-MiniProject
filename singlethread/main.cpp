@@ -22,9 +22,15 @@ int main() {
     for (int i = 0; i < MAX_CHAR; ++i) {
         if (isspace(arr[i])) {
             count++;
+            while(isspace(arr[i]))
+                i++;
         }
         countChar++;
     }
+    if(isspace(arr[]))
+        count--;
+    if(isspace(arr[end-1]))
+        count--;
     gettimeofday(&tp, NULL);
     long int after = tp.tv_sec * 1000 + tp.tv_usec / 1000;
     cout << after - before << endl;
