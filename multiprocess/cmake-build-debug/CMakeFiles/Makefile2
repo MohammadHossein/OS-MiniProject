@@ -54,10 +54,10 @@ RM = /home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/dragon/CLionProjects/mini_process
+CMAKE_SOURCE_DIR = /home/dragon/CLionProjects/MiniProject/multiprocess
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/dragon/CLionProjects/mini_process/cmake-build-debug
+CMAKE_BINARY_DIR = /home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/mini_process.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/dragon/CLionProjects/mini_process/cmake-build-debug
 CMakeFiles/mini_process.dir/all:
 	$(MAKE) -f CMakeFiles/mini_process.dir/build.make CMakeFiles/mini_process.dir/depend
 	$(MAKE) -f CMakeFiles/mini_process.dir/build.make CMakeFiles/mini_process.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target mini_process"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target mini_process"
 .PHONY : CMakeFiles/mini_process.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/mini_process.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/mini_process.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/mini_process.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/mini_process.dir/rule
 
 # Convenience name for target.

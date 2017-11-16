@@ -1,4 +1,4 @@
-# Install script for directory: /home/dragon/CLionProjects/OS-miniProject
+# Install script for directory: /home/dragon/CLionProjects/MiniProject/singlethread
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

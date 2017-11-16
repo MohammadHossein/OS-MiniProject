@@ -6,9 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/home/dragon/CLionProjects/mini_process/main.cpp
+/home/dragon/CLionProjects/MiniProject/multiprocess/main.cpp
+fstream
+-
+iostream
+-
 stdio.h
 -
+string.h
+-
+chrono
+-
 unistd.h
+-
+sys/wait.h
+-
+sys/mman.h
+-
+sys/times.h
+-
+sys/vtimes.h
+-
+thread
+-
+sys/time.h
 -
 

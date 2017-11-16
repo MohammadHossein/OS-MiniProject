@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug"/>
+				<Option working_dir="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug"/>
+				<Option working_dir="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug"/>
+				<Option working_dir="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OS_miniProject">
-				<Option output="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/OS_miniProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug"/>
+				<Option output="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/OS_miniProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 OS_miniProject"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 OS_miniProject"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OS_miniProject/fast">
-				<Option output="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/OS_miniProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug"/>
+				<Option output="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/OS_miniProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 OS_miniProject/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 OS_miniProject/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/dragon/CLionProjects/OS-miniProject/main.cpp">
+		<Unit filename="/home/dragon/CLionProjects/MiniProject/singlethread/main.cpp">
 			<Option target="OS_miniProject"/>
 		</Unit>
-		<Unit filename="/home/dragon/CLionProjects/OS-miniProject/CMakeLists.txt">
+		<Unit filename="/home/dragon/CLionProjects/MiniProject/singlethread/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

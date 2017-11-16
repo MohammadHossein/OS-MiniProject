@@ -1,3 +1,3 @@
-/home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dragon/CLionProjects/mini_process/cmake-build-debug/CMakeFiles/mini_process.dir
+/home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dragon/CLionProjects/MiniProject/multiprocess/cmake-build-debug/CMakeFiles/mini_process.dir

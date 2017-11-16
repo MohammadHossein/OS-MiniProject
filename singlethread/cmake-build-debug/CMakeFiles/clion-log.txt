@@ -1,4 +1,4 @@
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dragon/CLionProjects/OS-miniProject
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dragon/CLionProjects/MiniProject/singlethread
 -- The C compiler identification is GNU 4.8.4
 -- The CXX compiler identification is GNU 4.8.4
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug
+-- Build files have been written to: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug

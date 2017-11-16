@@ -1,1 +1,1 @@
-/usr/bin/g++  -pthread -g   CMakeFiles/mini_thread.dir/main.cpp.o  -o mini_thread 
+/usr/bin/c++  -pthread -g   CMakeFiles/mini_thread.dir/main.cpp.o  -o mini_thread 

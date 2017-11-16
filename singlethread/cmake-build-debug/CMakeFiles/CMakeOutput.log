@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0c975/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0c975.dir/build.make CMakeFiles/cmTC_0c975.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0c975.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_0c975.dir/testCCompiler.c.o   -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_0c975
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0c975.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_0c975.dir/testCCompiler.c.o  -o cmTC_0c975 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_7249d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7249d.dir/build.make CMakeFiles/cmTC_7249d.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7249d.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7249d.dir/testCCompiler.c.o   -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_7249d
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7249d.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_7249d.dir/testCCompiler.c.o  -o cmTC_7249d 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8d147/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8d147.dir/build.make CMakeFiles/cmTC_8d147.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o   -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_8d147
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d147.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o  -o cmTC_8d147 
+Run Build Command:"/usr/bin/make" "cmTC_86b7c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_86b7c.dir/build.make CMakeFiles/cmTC_86b7c.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o   -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_86b7c
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86b7c.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o  -o cmTC_86b7c 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.8/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8d147' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_8d147 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_86b7c' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_86b7c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_8d147/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_8d147.dir/build.make CMakeFiles/cmTC_8d147.dir/build]
-  ignore line: [make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o   -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_8d147]
-  ignore line: [/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d147.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o  -o cmTC_8d147 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_86b7c/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_86b7c.dir/build.make CMakeFiles/cmTC_86b7c.dir/build]
+  ignore line: [make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o   -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_86b7c]
+  ignore line: [/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86b7c.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o  -o cmTC_86b7c ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.8/lto-wrapper]
@@ -85,8 +85,8 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8d147' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_8d147 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_86b7c' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_86b7c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/collect2] ==> ignore
     arg [--sysroot=/] ==> ignore
     arg [--build-id] ==> ignore
@@ -99,7 +99,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_8d147] ==> ignore
+    arg [cmTC_86b7c] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o] ==> ignore
@@ -111,7 +111,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../..]
-    arg [CMakeFiles/cmTC_8d147.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_86b7c.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -143,17 +143,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_6962c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_6962c.dir/build.make CMakeFiles/cmTC_6962c.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6962c.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_6962c.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_6962c
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6962c.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_6962c.dir/feature_tests.c.o  -o cmTC_6962c 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_535b2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_535b2.dir/build.make CMakeFiles/cmTC_535b2.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_535b2.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_535b2.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_535b2
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_535b2.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_535b2.dir/feature_tests.c.o  -o cmTC_535b2 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -163,17 +163,17 @@ make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-buil
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d322a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d322a.dir/build.make CMakeFiles/cmTC_d322a.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d322a.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_d322a.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d322a
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d322a.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_d322a.dir/feature_tests.c.o  -o cmTC_d322a 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_eb64b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_eb64b.dir/build.make CMakeFiles/cmTC_eb64b.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eb64b.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_eb64b.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_eb64b
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eb64b.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_eb64b.dir/feature_tests.c.o  -o cmTC_eb64b 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -183,17 +183,17 @@ make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-buil
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8a4f4/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8a4f4.dir/build.make CMakeFiles/cmTC_8a4f4.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8a4f4.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_8a4f4.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_8a4f4
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8a4f4.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_8a4f4.dir/feature_tests.c.o  -o cmTC_8a4f4 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_19149/fast"
+/usr/bin/make -f CMakeFiles/cmTC_19149.dir/build.make CMakeFiles/cmTC_19149.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_19149.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_19149.dir/feature_tests.c.o   -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_19149
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19149.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_19149.dir/feature_tests.c.o  -o cmTC_19149 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -201,30 +201,30 @@ make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-buil
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9c669/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9c669.dir/build.make CMakeFiles/cmTC_9c669.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_9c669.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_9c669.dir/testCXXCompiler.cxx.o -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_9c669
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9c669.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_9c669.dir/testCXXCompiler.cxx.o  -o cmTC_9c669 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_df618/fast"
+/usr/bin/make -f CMakeFiles/cmTC_df618.dir/build.make CMakeFiles/cmTC_df618.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_df618.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_df618.dir/testCXXCompiler.cxx.o -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_df618
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_df618.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_df618.dir/testCXXCompiler.cxx.o  -o cmTC_df618 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fbcd9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fbcd9.dir/build.make CMakeFiles/cmTC_fbcd9.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_fbcd9
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fbcd9.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_fbcd9 
+Run Build Command:"/usr/bin/make" "cmTC_dfe68/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dfe68.dir/build.make CMakeFiles/cmTC_dfe68.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_dfe68
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dfe68.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_dfe68 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.8/lto-wrapper
@@ -234,23 +234,23 @@ Thread model: posix
 gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fbcd9' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_fbcd9 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dfe68' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_dfe68 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_fbcd9/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_fbcd9.dir/build.make CMakeFiles/cmTC_fbcd9.dir/build]
-  ignore line: [make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_fbcd9]
-  ignore line: [/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fbcd9.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_fbcd9 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_dfe68/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_dfe68.dir/build.make CMakeFiles/cmTC_dfe68.dir/build]
+  ignore line: [make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o -c /home/dragon/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_dfe68]
+  ignore line: [/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dfe68.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_dfe68 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.8/lto-wrapper]
@@ -260,8 +260,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fbcd9' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_fbcd9 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dfe68' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.8/collect2 --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_dfe68 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/collect2] ==> ignore
     arg [--sysroot=/] ==> ignore
     arg [--build-id] ==> ignore
@@ -274,7 +274,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_fbcd9] ==> ignore
+    arg [cmTC_dfe68] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o] ==> ignore
@@ -286,7 +286,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.8/../../..]
-    arg [CMakeFiles/cmTC_fbcd9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_dfe68.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -316,17 +316,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1y] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a74a1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a74a1.dir/build.make CMakeFiles/cmTC_a74a1.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a74a1.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1y -o CMakeFiles/cmTC_a74a1.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_a74a1
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a74a1.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_a74a1.dir/feature_tests.cxx.o  -o cmTC_a74a1 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_14f6a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_14f6a.dir/build.make CMakeFiles/cmTC_14f6a.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_14f6a.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1y -o CMakeFiles/cmTC_14f6a.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_14f6a
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_14f6a.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_14f6a.dir/feature_tests.cxx.o  -o cmTC_14f6a 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -389,17 +389,17 @@ make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-buil
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_40494/fast"
-/usr/bin/make -f CMakeFiles/cmTC_40494.dir/build.make CMakeFiles/cmTC_40494.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_40494.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_40494.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_40494
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_40494.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_40494.dir/feature_tests.cxx.o  -o cmTC_40494 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_82a1b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_82a1b.dir/build.make CMakeFiles/cmTC_82a1b.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_82a1b.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_82a1b.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_82a1b
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82a1b.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_82a1b.dir/feature_tests.cxx.o  -o cmTC_82a1b 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -462,17 +462,17 @@ make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-buil
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_39007/fast"
-/usr/bin/make -f CMakeFiles/cmTC_39007.dir/build.make CMakeFiles/cmTC_39007.dir/build
-make[1]: Entering directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_39007.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_39007.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_39007
-/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39007.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_39007.dir/feature_tests.cxx.o  -o cmTC_39007 
-make[1]: Leaving directory `/home/dragon/CLionProjects/OS-miniProject/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f1a85/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f1a85.dir/build.make CMakeFiles/cmTC_f1a85.dir/build
+make[1]: Entering directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f1a85.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_f1a85.dir/feature_tests.cxx.o -c /home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_f1a85
+/home/dragon/clion-2017.2.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a85.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_f1a85.dir/feature_tests.cxx.o  -o cmTC_f1a85 
+make[1]: Leaving directory `/home/dragon/CLionProjects/MiniProject/singlethread/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

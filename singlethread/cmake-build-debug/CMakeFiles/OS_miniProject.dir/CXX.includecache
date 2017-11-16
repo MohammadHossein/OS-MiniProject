@@ -6,10 +6,28 @@
 
 #IncludeRegexTransform: 
 
-/home/dragon/CLionProjects/OS-miniProject/main.cpp
+/home/dragon/CLionProjects/MiniProject/singlethread/main.cpp
+fstream
+-
 iostream
 -
-fstream
+stdio.h
+-
+string.h
+-
+chrono
+-
+unistd.h
+-
+sys/wait.h
+-
+sys/mman.h
+-
+sys/times.h
+-
+sys/vtimes.h
+-
+thread
 -
 sys/time.h
 -
